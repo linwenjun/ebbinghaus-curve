@@ -1,0 +1,14 @@
+{
+  "name": "ebbinghaus-curve",
+  "version": "1.0.0",
+  "description": "1天,\r 1天, 2天、4天、7天、15天、30天",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
